@@ -1,1 +1,4 @@
 body { font-family: Open Sans, sans-serif; }
+.features ul li { transition: background-color 0.3s ease-in-out; }
+.features ul li:hover { background-color: #f7f7f7; }
+.features ul li:hover h3 { color: #333; }

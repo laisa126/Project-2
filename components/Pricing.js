@@ -1,1 +1,3 @@
-import React from 'react';const Pricing = () => { return <section class="pricing"><h2>Pricing Plans</h2><table><thead><tr><th>Plan</th><th>Features</th><th>Price</th></tr></thead><tbody><tr><td>Basic</td><td>Limited features</td><td>$9.99</td></tr><tr><td>Premium</td><td>Full features</td><td>$19.99</td></tr><tr><td>Enterprise</td><td>Custom features</td><td>Custom quote</td></tr></tbody></table></section>;};export default Pricing;
+import React from 'react';
+const Pricing = () => { return <section class="pricing"><h2>Pricing Plans</h2><table><thead><tr><th>Plan</th><th>Features</th><th>Price</th></tr></thead><tbody><tr><td>Basic</td><td>Limited features</td><td>$9.99</td></tr><tr><td>Premium</td><td>Full features</td><td>$19.99</td></tr><tr><td>Enterprise</td><td>Custom features</td><td>Custom quote</td></tr></tbody></table></section>;};
+export default Pricing;

@@ -1,1 +1,3 @@
-import React from 'react';const Testimonials = () => { return <section class="testimonials"><h2>What our customers say</h2><ul><li><p>Great platform, easy to use and customize</p><span>John D.</span></li><li><p>Excellent support team, always available</p><span>Jane S.</span></li><li><p>Improved our workflow and productivity</p><span>Bob T.</span></li></ul></section>;};export default Testimonials;
+import React from 'react';
+const Testimonials = () => { return <section class="testimonials"><h2>What our customers say</h2><ul><li><p>Great platform, easy to use and customize</p><span>John D.</span></li><li><p>Excellent support team, always available</p><span>Jane S.</span></li><li><p>Improved our workflow and productivity</p><span>Bob T.</span></li></ul></section>;};
+export default Testimonials;
