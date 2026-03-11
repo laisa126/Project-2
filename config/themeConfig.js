@@ -1,0 +1,1 @@
+export const themeConfig = { primaryColor: '#333', secondaryColor: '#666' };

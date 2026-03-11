@@ -1,0 +1,1 @@
+export const appConfig = { title: 'SaaS Platform', description: 'A modern SaaS platform' };

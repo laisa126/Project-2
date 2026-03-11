@@ -1,0 +1,1 @@
+import React from 'react';const Hero = () => { return <section class="hero"><h1>Welcome to our SaaS Platform</h1><p>Discover the power of our innovative solution</p><button>Get Started</button></section>;};export default Hero;
